@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi There, I'm Abdul Rehman
 
-<!--
-**abdulrehman-11/abdulrehman-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Agent & Automation Architect with 8 years of experience building production-grade systems using LangGraph, n8n, RAG, and Python.  
+I design AI agents, voice bots, and automation workflows that scale operations with complete visibility and control.
 
-Here are some ideas to get you started:
+## Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agents & Multi-Agent Systems (LangGraph, LangChain)
+- Workflow Automation & Orchestration (n8n, Python, FastAPI)
+- RAG & Document Intelligence (Pinecone, Weaviate, OCR pipelines)
+- Voice AI (Vapi, Twilio, ElevenLabs, STT/TTS)
+- Cloud & Infra (Docker, Kubernetes, AWS, GCP)
+
+## Projects
+
+- LangGraph multi-agent system for customer onboarding and support automation
+- Voice appointment setter bot with real-time STT/TTS and CRM integration
+- RAG pipeline for contract search with exact clause citations
+- n8n orchestration hub managing 200+ workflows with error handling and monitoring
+
+## Contact
+
+📧 Email: **abdul.rehman.wb12@gmail.com**
