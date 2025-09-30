@@ -1,4 +1,4 @@
-### Hi There, I'm Abdul Rehman
+### I design production-grade AI agents and automation workflows
 
 I am an AI Agent & Automation Architect with 8 years of experience building production-grade systems using LangGraph, n8n, RAG, and Python.  
 I design AI agents, voice bots, and automation workflows that scale operations with complete visibility and control.
