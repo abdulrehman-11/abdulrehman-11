@@ -1,6 +1,7 @@
 ### I design production-grade AI agents and automation workflows
 
-As an AI Agent & Automation Architect with 8 years of experience, I use LangGraph, n8n, RAG, and Python to build systems that scale operations with complete visibility and control.
+As an AI Agent & Automation Architect with 8 years of experience, I use LangGraph, n8n, RAG, and Python to 
+build systems that scale operations with complete visibility and control.
 
 
 ## Expertise
